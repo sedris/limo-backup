@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0; background:#0c1d32;}
+.top-txt p{margin:0; padding:15px 15px 0 0; line-height:1.4em; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#bc9c36;text-align:right}
+.top-txt p a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#bc9c36;text-decoration:none;}
+.top-txt p a:hover{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#fff;text-decoration:underline;}
+
+/*Navigation Starts*/
+.hp-sel{background:url(../images/tabs/hp_sel.jpg) no-repeat; width:154px; height:51px;}
+.hp-sel span{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#fff; font-weight:bold;}
+.hp-unsel{background:url(../images/tabs/hp_unsel.jpg) no-repeat; width:154px; height:51px;}
+.hp-unsel a{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#bc9c36; font-weight:bold;text-decoration:none}
+.hp-unsel a:hover{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#fff; font-weight:bold;text-decoration:none}
+
+.services-sel{background:url(../images/tabs/serv_sel.jpg) no-repeat; width:130px; height:51px;}
+.services-sel span{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#fff; font-weight:bold;}
+.services-unsel{background:url(../images/tabs/serv_unsel.jpg) no-repeat; width:130px; height:51px;}
+.services-unsel a{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#bc9c36; font-weight:bold;text-decoration:none}
+.services-unsel a:hover{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#fff; font-weight:bold;text-decoration:none}
+
+.fleet-sel{background:url(../images/tabs/fleet_sel.jpg) no-repeat; width:112px; height:51px;}
+.fleet-sel span{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#fff; font-weight:bold;}
+.fleet-unsel{background:url(../images/tabs/fleet_unsel.jpg) no-repeat; width:112px; height:51px;}
+.fleet-unsel a{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#bc9c36; font-weight:bold;text-decoration:none}
+.fleet-unsel a:hover{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#fff; font-weight:bold;text-decoration:none}
+
+.rates-sel{background:url(../images/tabs/rates_sel.jpg) no-repeat; width:139px; height:51px;}
+.rates-sel span{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#fff; font-weight:bold;}
+.rates-unsel{background:url(../images/tabs/rates_unsel.jpg) no-repeat; width:139px; height:51px;}
+.rates-unsel a{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#bc9c36; font-weight:bold;text-decoration:none}
+.rates-unsel a:hover{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#fff; font-weight:bold;text-decoration:none}
+
+.contact-sel{background:url(../images/tabs/contact_sel.jpg) no-repeat; width:221px; height:51px;}
+.contact-sel span{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#fff; font-weight:bold;}
+.contact-unsel{background:url(../images/tabs/contact_unsel.jpg) no-repeat; width:221px; height:51px;}
+.contact-unsel a{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#bc9c36; font-weight:bold;text-decoration:none}
+.contact-unsel a:hover{font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#fff; font-weight:bold;text-decoration:none}
+
+.blank{background:url(../images/tabs/blank.jpg) repeat-x; width:auto; height:51px; text-align:center}
+/*Navigation Ends*/
+
+.hdr-imgs p{margin:0; padding:0;}
+.body-bg{background:#0f243f;border-bottom:2px solid #0c1d32;}
+.body-txt h1{margin:0; padding:10px 20px 0 0;font-family:"Times New Roman", Times, serif;font-size:22px; color:#bc9c36; font-weight:normal;}
+.body-txt h2{margin:0; padding:20px 20px 10px 40px;font-family:"Times New Roman", Times, serif;font-size:28px; color:#bc9c36; font-weight:normal;}
+.body-txt h3{margin:0; padding:10px 20px 10px 40px;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#fff; font-weight:bold;}
+.body-txt h4{margin:0; padding:0;font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#e1d29d; font-weight:bold;}
+.body-txt h3.rates{margin:0; padding:0 0 0 10px;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#fff; font-weight:bold;}
+.body-txt h3.Cinfo{margin:0; padding:10px 0 10px 0;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#fff; font-weight:bold;}
+.body-txt h4.rates1{margin:0; padding:0 0 0 10px;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#fff; font-weight:normal;}
+.body-txt p{margin:0; padding:0 20px 10px 40px;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#bc9c36; font-weight:normal; line-height:1.5em}
+.body-txt p.fa{margin:0; padding:0 0 10px 0;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#e1d29d; font-weight:normal;}
+.body-txt span{margin:0; padding:0;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#c3a338; font-weight:bold;}
+.body-txt span.note{font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#fff; font-weight:normal;}
+.body-txt span.services{margin:0; padding:0;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#CCCCCC; font-weight:bold;}
+.body-txt span.car-tit{margin:0; padding:0;font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#fff; font-weight:bold;}
+.rTbale{background:#0A192C; height:45px;}
+.rTbale1{background:#617181; height:45px;}
+.rTbale2{background:#2C3B4E; height:45px;}
+
+
+.body-right-area{background:#0A192C url(../images/body-right-area.jpg) repeat-x top; width:auto; height:275px}
+.body-right-area1{background:#0A192C url(../images/body-right-area.jpg) repeat-x bottom; width:auto; height:275px}
+.body-right-area1 h4.rDet{margin:0; padding:20px 0 10px 10px;font-family:Arial, Helvetica, sans-serif;font-size:14px; color:#e1d29d; font-weight:bold;}
+.body-right-area1 p.cDet{margin:0; padding:0 10px 20px 10px; font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#bc9c36; font-weight:normal; line-height:1.5em}
+
+.serv-img{cursor:hand; cursor:pointer;}
+.sImg{cursor:hand; cursor:pointer;}
+
+.leftFld{background:url(../images/txt-fld-left.jpg); width:5px; height:22px}
+.rightFld{background:url(../images/txt-fld-right.jpg); width:5px; height:22px}
+
+label{margin:0; padding:0 10px 0 0;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#fff; font-weight:normal;}
+.time_type{padding:0 1px 0 0;text-align:right}
+select{
+	background:#fffaea; 
+	width:auto; 
+	height:22px; 
+	border-top:1px solid #aba79b;
+	border-bottom:1px solid #aba79b;
+	border-left:none;
+	border-right:none;
+	vertical-align:middle;
+	padding:0; 
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px; 
+	color:#333; 
+	font-weight:normal;
+}
+
+.txtfld {
+	background:url(../images/txt-fld-mid.jpg) repeat-x; 
+	width:auto; 
+	height:22px; 
+	border:none; 
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px; 
+	color:#333; 
+	font-weight:normal;
+}
+textarea {
+	background:#fffaea;
+	background-image:url(../images/txt-area-fld-mid.jpg);
+	background-attachment:inherit;
+	width:auto;
+	height:45px;
+	vertical-align:middle;
+	margin:0;
+	padding:0; 
+	border-top:1px solid #aba79b;
+	border-bottom:1px solid #aba79b;
+	border-left:none;
+	border-right:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px; 
+	color:#333; 
+	font-weight:normal;
+ }
+
+.footer-nav p{margin:0; padding:0 0 0 10px;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#bc9c36;}
+.footer-nav p span{margin:0; padding:0 0 0 10px;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#fff;}
+.footer-nav p a{margin:0; padding:0 0 0 10px;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#bc9c36; text-decoration:none}
+.footer-nav p a:hover{margin:0; padding:0 0 0 10px;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#fff; text-decoration: underline}
+
+.footer-copy p{margin:0; padding:0 10px 0 0;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#bc9c36;}
+.footer-copy p span{margin:0; padding:0 10px 0 0;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#c8b302;}
+.footer-copy p a{margin:0; padding:0 10px 0 0;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#c8b302; text-decoration:none; font-weight:bold}
+.footer-copy p a:hover{margin:0; padding:0 10px 0 0;font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#fff; text-decoration:none;font-weight:bold}
+
+
+
+
+
+
